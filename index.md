@@ -1,91 +1,98 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Daniel Drognitz
+Geboren am: 24.03.1985, Thalwil, Schweiz
+
+Friedrichstrasse 19
+4055 Basel
+078 806 02 61
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="daniel@drognitz.ch">daniel@drognitz.ch</a>
+| <a href="https://drognitz.ch">drognitz.ch</a>
 </div>
 
 
-## Currently
+## Ausbildung
+`08/1992-08/1996`
+__Montessorischule__, Luzern
 
-Standing on the shoulders of giants
+`08/1996-08/1997`
+**Primarschule**, Dierikon
+`08/1997-08/1998`
+**Sekundarschule**, Root
+`08/1998-06/2000`
+**Sekundarschule**, Kreuzlingen
+`08/2000-08/2004`
+**Lehre als Hochbauzeichner**
+Klein & Müller Architekturbüro, Kreuzlingen
+`08/2004-08/2005`
+**Lehre als Hochbauzeichner**
+Architekturbüro Fischer, Tägerwilen
+`08/2005-08/2006`
+**Berufsmatura** mit gestalterischem Schwerpunkt 
+GBMS, St. Gallen
+`09/2009-07/2012`
+**BA Theorie** im Departement Medien und Kunst an der ZHdK
+`09/2014-07/2017`
+**MA in Transziplinarität** an der ZHdK
 
-### Specialized in
+## Berufserfahrung
+`11/2006-01/2007`
+**Fotografiepraktikum** bei Frank Müller, Gottmadingen
+`03/2007-09/2012`
+**CAD-Planer** bei Denz, Nänikon
+`12/2010-11/2014`
+**Freelance Bildbearbeiter** bei Süsstrunk & Jericke, Zürich
+`01/2014-12/2017`
+**Büroplaner** bei Gräub Office
+`10/2018-08/2019`
+**Fotografieassistenz** bei Oliver Oettli, Biel
+`2011-2018`
+**Freelance Fotograf** und Bildbearbeiter an der ZhdK
+`2013-2020`
+**Freischaffender Fotograf und Bildbearbeiter**
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+## Persönliche Entwicklung
+`09/2012-05/2013`
+**Reise durch Australien, Südost-Asien und Indien**
 
+## Ehrenamtliche Tätigkeiten
+`2012-2017`
+**Studentische Nachhaltigkeitswoche der fünf Zürcher Hochschulen**
+Standort- und Projektkoordination 
+`2020-`
+**Empathie Initiative**
+Durchführung von Kursen und Mitarbeit in Gremien
 
-### Research interests
+## Sprachen
+Deutsch Muttersprache
+Englisch Verhandlungssicher
+Französisch Konversationssicher 
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+## Publikationen
+`03/2018`
+**Die Ökologien des Klebens** 
+Vortrag, im Eigenverlag
 
+`03/2018`
+**Eat Your Sidewalk! Codebook** 
+Spurse Mitübersetzung, im Eigenverlag
 
-## Education
+`01/2018`
+**Ökologien der Sorge** | transversal texts 
+Mitherausgeber und Übersetzung des Texts “Für eine Neubegründung sozialer Praktiken” von Felix Guattari
 
-`1654-1660`
-__The King's School, Grantham.__
+`05/2017`
+**Die Ökologien der Faulheit** 
+Im Eigenverlag
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`05/2017`
+**Kritik! - Eine Publikation als Ausstellung** 
+Verschiedene Beiträge
 
-- Sizar
+`09/2016`
+**Wie eine Depression heilen?** 
+Franco ‘Bifo’ Berardi, Mitübersetzung
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+`05/2012`
+**How to Exit** 
+Im Eigenverlag
