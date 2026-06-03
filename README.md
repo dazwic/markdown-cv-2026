@@ -1,4 +1,4 @@
-# markdown-cv
+# markdown-cv-dd
 
 A curriculum vitae maintained in plain text and rendered to HTML and PDF using CSS.
 
