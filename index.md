@@ -83,6 +83,9 @@ bei Yoram Mosenzon und der Empathie Initiative
 `2013-2020`
 **Freischaffender Fotograf und Bildbearbeiter**
 
+`08/2019-`
+**Customer Care Agent** bei cyon in Basel
+
 ## Persönliche Entwicklung
 `09/2012-05/2013`
 **Reise durch Australien, Südost-Asien und Indien**
